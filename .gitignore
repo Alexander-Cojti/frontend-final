@@ -1,0 +1,10 @@
+node_modules
+dist/
+.DS_Store
+*.orig
+.idea/
+.vscode/
+.dist/
+desktop.ini
+.env
+package-lock.json
